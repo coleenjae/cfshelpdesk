@@ -42,6 +42,11 @@ export default class ChatForm {
 						<input type='text' class='form-control' id='chat-fullname' 
 							placeholder='${__('Please enter your full name')}'>
 					</div>
+          <div class='form-group'>
+						<label class='form-label'>${__('Subject')}</label>
+						<input type='text' class='form-control' id='chat-Subject' 
+							placeholder='${__('Please enter your Subject')}'>
+					</div>
 					<div class='form-group'>
 						<label class='form-label'>${__('Email Address')}</label>
 						<input type='email' class='form-control' id='chat-email' 
