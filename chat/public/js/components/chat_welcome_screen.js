@@ -46,7 +46,7 @@ export default class ChatWelcome {
 					${__('Start Conversation')}
 				</button>
 				<a class='chat-footer welcome-footer' target='_blank' href='https://frappeframework.com/'>
-					${__('⚡ Powered by CFS')}
+					${__('⚡  CFS')}
 				</a>
 			</div>
 		`;
