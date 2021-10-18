@@ -66,7 +66,7 @@ export default class ChatForm {
 		`;
     const footer_html = `
       <a class='chat-footer' target='_blank' href='https://www.consistentportal.com/'>
-        ${__('⚡ Powered by Frappe')}
+        ${__('⚡ Powered by CFS')}
       </a>
     `;
     this.$chat_form.append(form_html + footer_html);
