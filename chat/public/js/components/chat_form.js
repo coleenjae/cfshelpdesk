@@ -25,7 +25,7 @@ export default class ChatForm {
 						${__(this.profile.name)}
 						<div class='online-circle'></div>
 					</div>
-					<div class='chat-profile-status'>${__('Typically replies in a few hours')}</div>
+					<div class='chat-profile-status'>${__('Typically replies in a few minutes')}</div>
 				</div>
 			</div>
 		`;
